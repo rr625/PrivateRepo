@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kingsman-323105",
+  "private_key_id": "573576465de09cb42fe2ca04a72b1556cb3c48e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDWQYc+tm/hemzm\nOxgGYVJkBn4tfvPs51pUNIVHar1tdFtdizisW3BWYqZch4o6KjYh5seOCEVoTlY3\nTeuKesb5eP1LlLoJ67bOW0xx6vf7Ee8uRtH/raLRwvz0q1LqzntU4T7IA53n5iL/\n/Pe7GhKo5gSQOYAraCMLqz3vrz1fn1GTraCv/B441QO+fgAklXCFS9HdPdbvDK9m\nJUi942AIp+z+1S/rOc7rT9hachVsN+v0TSzuTngwh0oLHYPa8eSpbEbITmPs3cWJ\nJ9ouGiLmHfCfB9AEqa3Xaxe5XsleqOGRrXdndEBYGYs16bvUfhvX7WkRCHWMVSz0\nGrk2XxkZAgMBAAECggEABfPUmtKtOY2x7FSMdpLqG9LNWxy5kKWdzhSWdlU6FYoj\nxq3JQYqZzKCZgB0Y40RMdDUp6qGCsiLpBMjSqCqAkCpDGUA0yfVFQybosQqG4LAP\nHdFEYM7VZO/+oJqI53KcnQ9T8/EbyDdN1iBUTpurFIutaUdbrvkJ7jdP9XKAKUGi\nGFHPkT1B0Ve9Fw3koROmhAld/oWUpTXYGdhrFZeE9KHEGBZqK6eyjUA8vYDnGpRc\nE5il6LoFMlfgmhmlj08If2rvwwTMWmHj1Q3PsmrnAjTi20ZLlzgjrAVwlDlBEHsP\nHRMYUJUB7L8pMo1QCchL0/q0LfXhDWGGq/QZssp2wQKBgQDyqFPlT8qKG/yc5/0v\ncbQKcjiqIKn0BpJ7/toaEdiRxifuFy8nMeNWTCntpcy4tPrNY46KXKRIgH2/4V7B\nAX3Jmct/7R9DQVbiTF5wxm9b3ae7AuVG16c53DLTdG5UggZhFemtyoNJfQiDJr6B\nz1LBnmGYr3WNLfa/uA8K2Hof4QKBgQDiCWrUtk0y324C1EGE0DoR7vTr7SUappto\nxS10eq0xksmRm537x2Gesl6vlYSNQspv39YmXYL4IlX22eI9kMjhYt+Qsh66/WSe\n+70J54e1Mk4zDnUoeaPg9cF6w7cD9gf3utSR3/Z7XzhEYelOmtzhns9QwySapliD\nl9HxYO4AOQKBgDZKkRLCSneiEV/ty8j8sKKRsbnmuv+9JLMXbybcDU94PWDY0RT8\n5XdebRcdvHMrEt43QyIT3jHWhcwTmYanVcRwY4aIwDDlApJ5MbwbubidHDUMTc4O\n2/xnFvwWlcTUnqbEJ1dZ8wvTLL9jQMZ8Y3CshfuKbkubGBUHEl6D1rchAoGAGvUU\nkJnNSyvqatv1lGlhA5KEEz8NFciY8D3T1fhrf2YKNBtjFAwLUGnlcPtb+5zjl8QS\nPjEY1Y8CwZXqrXz++CJal18m2xYtUeij+vJp9Ooy+VPYFSOsr7+fe4yr3wUQnjLh\n9yPGuZ/5je4/bOh7P005XGBplSgRlmAc4bS1rcECgYB5ri80LzEhTI/fYpVrtcmD\nh2YHp7I8wuRnGHoE62FFs4kJWBQ02SX5xUM12i595hPIK6fuVrLFUcwpPZq/ipHM\n0eg0/FxEB1scpTYh/qKyYzVyMBob7bGzjTB9/dTWq+CGb40vT/5lOUpLxkYGAESy\n6j9vyZWVvwTLaNKZEL8UNw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-ww4ny3k7b0mzhzqwiwe9cmah7j@kingsman-323105.iam.gserviceaccount.com",
+  "client_id": "114458041320788920939",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-ww4ny3k7b0mzhzqwiwe9cmah7j%40kingsman-323105.iam.gserviceaccount.com"
+}
